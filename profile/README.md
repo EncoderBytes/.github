@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height='300' src="../encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
+  <img width="100%" height='300' src="encoderbytes.gif" alt="EncoderBytes (PRIVATE) LIMITED" />
 </p>
 
  <p align="center"><h1>EncoderBytes</h1> is a Software development company, We strive to provide fully-fledged products to our consumers according to their expectations, we worked in Flutter (IOS & Android), React Native (IOS & Android), Deep Learning, Machine Learning, Data Science and Web development.

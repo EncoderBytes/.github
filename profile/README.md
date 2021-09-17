@@ -28,6 +28,6 @@
 
 [@AbubakarSadeeq](https://github.com/sadeqe1) | [@AliKhan](https://github.com/Ali-here) | [@UmarFarooq](https://github.com/umarfarooqweb) | [MuhammadOsamaJavaid](https://github.com/GitMOJ)
 --- | --- | --- | ---
-![@AbubakarSadeeq](https://avatars.githubusercontent.com/u/86850538?v=4) | ![@AliKhan](https://avatars.githubusercontent.com/u/60252563?v=4) | ![@UmarFarooq](https://avatars.githubusercontent.com/u/58306391?v=4) | ![
-MuhammadOsamaJavaid](https://avatars.githubusercontent.com/u/87387879?v=4)
+![@AbubakarSadeeq](https://avatars.githubusercontent.com/u/86850538?v=4) | ![@AliKhan](https://avatars.githubusercontent.com/u/60252563?v=4) | ![@UmarFarooq](https://avatars.githubusercontent.com/u/58306391?v=4) | 
+![MuhammadOsamaJavaid](https://avatars.githubusercontent.com/u/87387879?v=4)
 

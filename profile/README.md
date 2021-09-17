@@ -22,11 +22,12 @@
 
 # Our Creative Team
 
-[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+[@MianJawadAhmad](https://github.com/MianJawadAhmad) | [@MohsinTariq](https://github.com/MohsinTariq10) | [@ZeeshanSaleem](https://github.com/ZeeshanSalem) | [@NaveedHussain](https://github.com/navidanchitrali)
 --- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/u/39160224?v=4) | ![@Brawrdon](https://avatars.githubusercontent.com/u/4686418?v=4) | ![@dayhaysoos](https://avatars.githubusercontent.com/u/49438298?v=4) | ![@ifiokjr](https://avatars.githubusercontent.com/u/48487470?v=4)
+![@MianJawadAhmad](https://avatars.githubusercontent.com/u/39160224?v=4) | ![@MohsinTariq](https://avatars.githubusercontent.com/u/4686418?v=4) | ![@ZeeshanSaleem](https://avatars.githubusercontent.com/u/49438298?v=4) | ![@NaveedHussain](https://avatars.githubusercontent.com/u/48487470?v=4)
 
-[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
+[@AbubakarSadeeq](https://github.com/sadeqe1) | [@AliKhan](https://github.com/Ali-here) | [@UmarFarooq](https://github.com/umarfarooqweb) | [MuhammadOsamaJavaid](https://github.com/GitMOJ)
 --- | --- | --- | ---
-![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
+![@AbubakarSadeeq](https://avatars.githubusercontent.com/u/86850538?v=4) | ![@AliKhan](https://avatars.githubusercontent.com/u/60252563?v=4) | ![@UmarFarooq](https://avatars.githubusercontent.com/u/58306391?v=4) | ![
+MuhammadOsamaJavaid](https://avatars.githubusercontent.com/u/87387879?v=4)
 

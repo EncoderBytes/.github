@@ -26,7 +26,7 @@
 --- | --- | --- | ---
 ![@MianJawadAhmad](https://avatars.githubusercontent.com/u/39160224?v=4) | ![@MohsinTariq](https://avatars.githubusercontent.com/u/4686418?v=4) | ![@ZeeshanSaleem](https://avatars.githubusercontent.com/u/49438298?v=4) | ![@NaveedHussain](https://avatars.githubusercontent.com/u/48487470?v=4)
 
-[@AbubakarSadeeq](https://github.com/sadeqe1) | [@AliKhan](https://github.com/Ali-here) | [@UmarFarooq](https://github.com/umarfarooqweb) | [MuhammadOsamaJavaid](https://github.com/GitMOJ)
+[@kalemullah](https://github.com/kalemullah) | [@AliKhan](https://github.com/Ali-here) | [@UmarFarooq](https://github.com/umarfarooqweb) | [MuhammadOsamaJavaid](https://github.com/GitMOJ)
 --- | --- | --- | ---
-![@AbubakarSadeeq](https://avatars.githubusercontent.com/u/86850538?v=4) | ![@AliKhan](https://avatars.githubusercontent.com/u/60252563?v=4) | ![@UmarFarooq](https://avatars.githubusercontent.com/u/58306391?v=4) | ![MuhammadOsamaJavaid](https://avatars.githubusercontent.com/u/87387879?v=4)
+![@kalemullah](https://avatars.githubusercontent.com/u/51668264?v=4) | ![@AliKhan](https://avatars.githubusercontent.com/u/60252563?v=4) | ![@UmarFarooq](https://avatars.githubusercontent.com/u/58306391?v=4) | ![MuhammadOsamaJavaid](https://avatars.githubusercontent.com/u/87387879?v=4)
 

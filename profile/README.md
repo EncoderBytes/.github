@@ -20,7 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-# Our Team
+<!-- # Our Team
 
 [@MianJawadAhmad](https://github.com/MianJawadAhmad) | [@MohsinTariq](https://github.com/MohsinTariq10) | [@ZeeshanSaleem](https://github.com/ZeeshanSalem) | [@NaveedHussain](https://github.com/navidanchitrali)
 --- | --- | --- | ---
@@ -29,4 +29,4 @@
 [@kalemullah](https://github.com/kalemullah) | [@AliKhan](https://github.com/Ali-here) | [@UmarFarooq](https://github.com/umarfarooqweb) | [MuhammadOsamaJavaid](https://github.com/GitMOJ)
 --- | --- | --- | ---
 ![@kalemullah](https://avatars.githubusercontent.com/u/51668264?v=4) | ![@AliKhan](https://avatars.githubusercontent.com/u/60252563?v=4) | ![@UmarFarooq](https://avatars.githubusercontent.com/u/58306391?v=4) | ![MuhammadOsamaJavaid](https://avatars.githubusercontent.com/u/87387879?v=4)
-
+ -->
